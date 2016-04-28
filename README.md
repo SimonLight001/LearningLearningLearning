@@ -7,5 +7,5 @@ Within this please initiate this folder with a tutorial page.
 
 Then add challenges to this folder.
 
-If you want to learn the languages then branch?(not sure if the correct terminology) the folder. 
+If you want to learn the languages then clone?(not sure if the correct terminology) the folder. 
 
