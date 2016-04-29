@@ -11,5 +11,6 @@ great on frontend.
 
 ```
 (defn fib [n]
-    (+ (fib )))
+    (+ (fib (- n 1))
+       (fib (- n 2))))
 ```
